@@ -1,12 +1,7 @@
-# 🚀 Prathamesh Kasar - Developer Portfolio
+# 🚀 Ayush Shrivastava - Developer Portfolio
 
 A fully responsive, animated portfolio built using **ReactJS**, showcasing my skills, tech stack, and featured projects. ✨
 
-🔗 **Live Demo**: [https://prathamesh-kasar-portfolio.vercel.app/](https://prathamesh-kasar-portfolio.vercel.app/)
-
-![Portfolio Banner](https://avatars.githubusercontent.com/01Prathamesh)
-
----
 
 ## 📁 Project Structure
 
@@ -45,12 +40,6 @@ prathamesh-portfolio/
 
 ---
 
-## 🎥 Demo Preview
-
-![Portfolio Demo](images/Portfolio.gif)
-
----
-
 ## 📦 Available Scripts
 
 ```bash
@@ -58,21 +47,3 @@ npm install     # Install all dependencies
 npm start       # Run in development mode
 npm run build   # Build for production
 ```
-
----
-
-## ✍️ Author
-
-**Prathamesh Kasar**  
-📍 India  
-🔗 [GitHub](https://github.com/01Prathamesh) • [LinkedIn](https://linkedin.com/in/prathamesh-kasar) • [Resume](https://drive.google.com/file/d/1dOYtfXw9zFRazJPfqdvMAZaaONYrzS8m/view?usp=sharing)
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> Built with 💙 by Prathamesh Kasar
