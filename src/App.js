@@ -262,7 +262,7 @@ function App() {
           A quick snapshot of my experience, skills, and tech journey — neatly packed into a single document.
         </p>
         <a
-          href="https://drive.google.com/file/d/1oCCL0H1RXM9TWjHyV0JoOQf2SHMncdEt/view"
+          href="https://drive.google.com/file/d/1HdsCtZyD8Ku-h9mfN4Yd1g6MFyf2cmKW/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className={`btn btn-lg px-5 py-3 fw-semibold ${
