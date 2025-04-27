@@ -367,7 +367,7 @@ function App() {
           <div className="col-md-8">
             <div className={`p-4 rounded shadow ${darkMode ? "bg-dark text-white" : "bg-white text-dark"}`} data-aos="zoom-in">
               <form
-                action="https://forms.gle/QDPXkFi7Xsqzc7PR6"
+                action="https://docs.google.com/forms/u/0/d/13soDfkFf66VZvvu6Iw3gYhTNSZjI9cWVpRgRsSUlmGM/previewResponse"
                 method="POST"
                 target="_blank"
               >
